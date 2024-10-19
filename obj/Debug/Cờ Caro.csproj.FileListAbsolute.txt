@@ -1,0 +1,10 @@
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe.config
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.pdb
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.exe
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.pdb
+C:\Users\GIGABYTE\source\repos\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.Form1.resources
